@@ -3,7 +3,6 @@
 
 #Se importan los metodos solicitados por el ejercicios
 import gl
-import Creando
 from vector import *
 
 gl.glInit()
